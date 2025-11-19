@@ -21,11 +21,19 @@ Frequency Modulation (FM) is a method of transmitting information over a carrier
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 ### PROGRAM
+<img width="596" height="961" alt="image" src="https://github.com/user-attachments/assets/c0b11a87-5d79-45ca-bf8d-d4d4f3b08085" />
 
 
 ### TABULATION
+<img width="1230" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7c65f76-10c4-436e-b7a7-63796b640a1d" />
+
 
 ### OUTPUT
-   
+
+  ![WhatsApp Image 2025-11-19 at 20 25 11_614fc89f](https://github.com/user-attachments/assets/409e2437-43e0-48ad-b127-f77b99cc81e7)
+ 
 ### RESULT
+The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
+
+
 
